@@ -9,7 +9,7 @@
   o que faz: [Click aqui](https://www.redhat.com/pt-br/topics/devops/devops-engineer)<br/>
   explicação de Container, Docker, Kubernetes: [Click Aqui](https://www.youtube.com/watch?v=wxLvvMxzc1Q)<br/>
   
-##
+## Conceitos de Desenvolvimento
   
 - `Conceitos de Desenvolvimento` : <br/>
   Como os Devs trabalham e colaboram (Agile, Jira workflows)
@@ -34,80 +34,75 @@
   
   Entender Como Funciona Ciclo de Vida de um Desenvolvimento 
 
-##
+## OS & Linux Basics
 
- - `OS & Linux Basics` : <br/>
-   Em desenvolvimento  (exemplo, exemplo 2)
-  
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
-  
-  Em desenvolvimento !! ferramentas exemplo:
-  
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
+- `OS & Linux Basics` : <br/>
+  Conceitos básicos de operação de sistema:
+   
+   * Shell commands
+   * Linux File System & Permissions
+   * SSH Key Management
+   * Virtualization<br/>
  
-##
+  Básico de NetWorking e Segurança como:
+  
+   * Configurar FireWalls para acesso de segurança
+   * Entender o que é endereço de IP, Portas e DNS works
+   * Load Balancers
+   * Proxies
+   * HTTP/HTTPS<br/>
+   
+## Conteinerização - Docker
 
- - `Containerization - Docker` : <br/>
-   Em desenvolvimento  (exemplo, exemplo 2)
+- `Conteinerização - Docker` : <br/>
+  Você vai presisar saber:
   
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
+   * Conceitos de Virtualização
+   * Conceitos de Conteinerização
+   * Como configurar conteiners em um servidor<br/>
   
-  Em desenvolvimento !! ferramentas exemplo:
+  Mais algumas coisas que você deve saber:
   
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
- 
-##
+   * Rodar Containers
+   * Inspessionar containers ativos
+   * Docker Networking
+   * Persist data with Docker Volumes
+   * Dockerizar aplicações usando Docker Files
+   * Rodar múltiplos containers usando Docker Compose
+   * Trabalhar com Docker Repository
+   
+## CI/CD Pipelines
 
- - `CI/CD Pipelines`: <br/>
-   Em desenvolvimento  (exemplo, exemplo 2)
+- `CI/CD Pipelines`: <br/>
+  No DevOps, todas alteração no código, como novas
+  features ou bug resolvido, precisa ser
+  integrada na existente aplicação e
+  implantada para o usuário final continuamente
+  e de forma automatizada 
+
+  Daí o termo:
   
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
+   Integração Contínua e Contínua
+   Implantação (CI/CD)
   
-  Em desenvolvimento !! ferramentas exemplo:
+  Quando o recurso ou correção de bug estiver concluído, um
+  pipeline em execução em um servidor CI (por exemplo,
+  Jenkins) deve ser acionado
+  automaticamente, que:
+   
+   * executa os testes
+   * empacota o aplicativo
+   * cria uma imagem de contêiner
+   * envia o contêiner Image para um
+   * repositório de imagens
+   * implanta a nova versão em um servidor
   
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
+  Habilidades que você precisa aprender:
+   
+   * Setting up the CI/CD server
+   * Integrar repositório de código para acionar pipeline automaticamente
+   * Ferramentas de compilação e ferramentas do gerenciador de pacotes para executar os testes e empacotar a aplicação
+   * Configurar repositórios de artefatos (como Nexus) e integrar com pipeline
 
 ##
 
