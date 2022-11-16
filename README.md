@@ -104,157 +104,52 @@
    * Ferramentas de compilação e ferramentas do gerenciador de pacotes para executar os testes e empacotar a aplicação
    * Configurar repositórios de artefatos (como Nexus) e integrar com pipeline
 
-##
+## Learn one Cloud Provider
 
- - `Learn one Cloud Provider`: <br/>
-   Em desenvolvimento  (exemplo, exemplo 2)
+  - `Learn one Cloud Provider`: <br/>
+  Hoje em dia muitas empresas utilizam
+  infraestrutura na nuvem, em vez de
+  gerenciando sua própria infraestrutura. Esses
+  são Infraestrutura como Serviço (IaaS)
+  plataformas, que oferecem uma gama de
+  serviços adicionais, como backup, segurança,
+  balanceamento de carga etc.
+
+  Esses serviços são específicos da plataforma. Então
+  você precisa aprender os serviços desse
+  plataforma específica e saiba como
+  gerenciar toda a implantação
+  infraestrutura nele.
   
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
-  
-  Em desenvolvimento !! ferramentas exemplo:
-  
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
+  Por exemplo. para AWS você deve saber o
+  fundamentos de:
+   
+   * Serviço IAM - gerenciamento de usuários e
+permissões
+   * Serviço VPC - sua rede privada
+   * cria uma imagem de contêiner
+   * Serviço EC2 - servidores virtuais 
+ 
+## Container Orchestration
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+## Monitoring & Observability
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+## Infrastructure as Code
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+## Scripting Language
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ 
+ ## Version Control - Git
+ 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
  
 ##
 
- - `Container Orchestration -
-Kubernetes`: <br/>
-  Em desenvolvimento  (exemplo, exemplo 2)
-  
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
-  
-  Em desenvolvimento !! ferramentas exemplo:
-  
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
-
-##
-
- - `Monitoring &
-Observability`: <br/>
-  Em desenvolvimento  (exemplo, exemplo 2)
-  
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
-  
-  Em desenvolvimento !! ferramentas exemplo:
-  
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
-
-##
-
- - `Infrastructure as Code`: <br/>
-   Em desenvolvimento  (exemplo, exemplo 2)
-  
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
-  
-  Em desenvolvimento !! ferramentas exemplo:
-  
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
-
-##
-
- - `Scripting Language`: <br/>
-   Em desenvolvimento  (exemplo, exemplo 2)
-  
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
-  
-  Em desenvolvimento !! ferramentas exemplo:
-  
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
- 
- ##
- 
- - `Version Control - Git`: <br/>
-   Em desenvolvimento  (exemplo, exemplo 2)
-  
-   * Explicação do exemplo: [O que é e para q serve!](https://www.youtube.com)
-   * Jira WorkFlows: [O que é!](https://www.youtube.com)<br/>
-  
-  Em desenvolvimento !! ferramentas exemplo:
-  
-   * ferramenta: [Explicação](https://www.youtube.com)<br/>
-  
-  Configurações exemplo:
-  
-   * Config... 
-   * Also Config...<br/>
-  
-  Ferramenta exemplo 2:
-  
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)
-   * Entendendo Ferramenta usada: [aqui](https://www.youtube.com)<br/>
-  
-  descrição em desenvolvimento 
- 
-##
-
+> **Note**: Material não é autoral, mas a estrutura sim. [arquivo de referência usado aqui](https://drive.google.com/file/d/1OKHOp6y8xXlpXBc6RBisimcEgLUZ6aQj/view?usp=share_link)
