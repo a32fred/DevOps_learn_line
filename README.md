@@ -39,10 +39,11 @@
 - `OS & Linux Basics` : <br/>
   Conceitos básicos de operação de sistema:
    
-   * Shell commands
-   * Linux File System & Permissions
-   * SSH Key Management
-   * Virtualization<br/>
+   * Shell commands => [curso](https://t.me/+Cex-JJeFdhNjYzhh)
+   * Linux File System & Permissions => [curso 1](https://t.me/+_zefSqfIDgM0OTI5); [curso 2](https://t.me/+Faocjb1dLlNkYTdh)
+   * SSH Key Management => [entender o que é](https://www.youtube.com/watch?v=GxRu35fy-oY)
+   > importante ver a descrição do link do video acima
+   * Virtualization => [play list de videos](https://www.youtube.com/watch?v=3VJsPxwaaG4&list=PLQ2gZvoWCA74QtyUUB2zDAKcrW9o_jzRI)<br/>
  
   Básico de NetWorking e Segurança como:
   
