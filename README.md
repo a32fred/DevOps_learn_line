@@ -153,3 +153,5 @@ permissões
 ##
 
 > **Note**: Material não é autoral, mas a estrutura sim. [arquivo de referência usado aqui](https://drive.google.com/file/d/1OKHOp6y8xXlpXBc6RBisimcEgLUZ6aQj/view?usp=share_link)
+
+> **Note**: Material de apoio para aprendizado, outro roadmap. [site referido](https://roadmap.sh/devops)
