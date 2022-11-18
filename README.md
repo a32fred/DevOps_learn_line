@@ -73,6 +73,8 @@
    * Trabalhar com Docker Repository
    
 ## CI/CD Pipelines
+> **Material de base forte:** [redirect](https://www.youtube.com/watch?v=h9K1NnqwUvE)
+
 
 - `CI/CD Pipelines`: <br/>
   No DevOps, todas alteração no código, como novas
@@ -105,7 +107,10 @@
    * Ferramentas de compilação e ferramentas do gerenciador de pacotes para executar os testes e empacotar a aplicação
    * Configurar repositórios de artefatos (como Nexus) e integrar com pipeline
 
-## Learn one Cloud Provider
+## Learn one Cloud Provider (exemple AWS)
+> **curso no telegram do básico:** [Telegram](https://t.me/+_rWPR45H8BRhZTdh)
+
+> **curso focado em aplicação serveless (nodejs):** [Telegram](https://t.me/+OGR8xRTVt0YzNDJh)
 
   - `Learn one Cloud Provider`: <br/>
   Hoje em dia muitas empresas utilizam
@@ -134,7 +139,7 @@ permissões
 ## ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 > orquestração de container
-
+  * Full couse for beginners: [youtube](https://www.youtube.com/watch?v=X48VuDVv0do)
 > Monitoramento e obeservação
 
 > infraestrutura como código
@@ -148,3 +153,8 @@ permissões
 > **Note**: Material não é autoral, mas a estrutura sim. [arquivo de referência usado aqui](https://drive.google.com/file/d/1OKHOp6y8xXlpXBc6RBisimcEgLUZ6aQj/view?usp=share_link)
 
 > **Note**: Material de apoio para aprendizado, outro roadmap. [site referido](https://roadmap.sh/devops)
+
+- cursos completos de devops em um unico video:
+  - [DevOps Tools Full Course | Ansible, Jenkins, Nagios, Chef, Puppet, Selenium tutorial | Simplilearn](https://www.youtube.com/watch?v=FyNvwI02Nhg&pp=ugMICgJlbhABGAE%3D)
+  
+  - [DevOps Full Course | Learn DevOps In 10 Hours | DevOps Tutorial For Beginners | DevOps | Simplilearn](https://www.youtube.com/watch?v=5KtRF4NuUWE) 
