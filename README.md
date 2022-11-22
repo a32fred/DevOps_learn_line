@@ -135,11 +135,37 @@ permissões
    * Serviço VPC - sua rede privada
    * cria uma imagem de contêiner
    * Serviço EC2 - servidores virtuais 
- 
-## ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-> orquestração de container
+## orquestração de container:
   * Full couse for beginners: [youtube](https://www.youtube.com/watch?v=X48VuDVv0do)
+  
+  Como os contêineres são populares e fáceis de
+  uso, muitas empresas estão executando
+  centenas ou milhares de contêineres em
+  vários servidores. Isso significa que estes
+  contêineres precisam ser gerenciados
+  de alguma forma
+    
+  Ferramentas de orquestração de contêineres como
+  Kubernetes, automatize a implantação,
+  dimensionamento e gerenciamento de
+  aplicações conteinerizadas.  
+  
+  - então o que vc precisa pra aprender:
+    - Como funciona o Kubernetes
+    - Como administrar e gerenciar o agrupamento K8s
+    - Como implantar aplicativos no K8s
+
+  - Conhecimento específico K8s necessário:
+    - Aprenda os componentes principais como,
+      Implantação, Serviço, ConfigMap,
+      Segredo, StatefulSet, Entrada
+    - Kubernetes CLI (Kubectl)
+    - Dados persistentes com Volumes K8s
+    - Namespaces
+
+##
+## ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 > Monitoramento e obeservação
 
 > infraestrutura como código
