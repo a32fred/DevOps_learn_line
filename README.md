@@ -7,7 +7,7 @@
 
   explicação boa: [Click aqui](https://www.youtube.com/watch?v=IQ8-_khQATQ)<br/>
   o que faz: [Click aqui](https://www.redhat.com/pt-br/topics/devops/devops-engineer)<br/>
-  explicação de Container, Docker, Kubernetes: [Click Aqui](https://www.youtube.com/watch?v=wxLvvMxzc1Q)<br/>
+  <br/>
   
 ## Conceitos de Desenvolvimento
   
